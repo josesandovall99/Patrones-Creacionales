@@ -1,0 +1,13 @@
+co\edu\udes\patronabstractfactory\FabricaDeRopa.class
+co\edu\udes\patronabstractfactory\Productos\Pantalon\PantalonDeGala.class
+co\edu\udes\patronabstractfactory\Productos\Zapatos.class
+co\edu\udes\patronabstractfactory\Productos\Zapato\ZapatosDeportivos.class
+co\edu\udes\patronabstractfactory\Fabricas\FabricaDeRopaDeportiva.class
+co\edu\udes\patronabstractfactory\Main.class
+co\edu\udes\patronabstractfactory\Productos\Pantalones.class
+co\edu\udes\patronabstractfactory\Productos\Zapato\ZapatosDeGala.class
+co\edu\udes\patronabstractfactory\Productos\Camisas.class
+co\edu\udes\patronabstractfactory\Productos\Camisa\CamisaDeportiva.class
+co\edu\udes\patronabstractfactory\Productos\Pantalon\PantalonesDeportivos.class
+co\edu\udes\patronabstractfactory\Fabricas\FabricaDeRopaElegante.class
+co\edu\udes\patronabstractfactory\Productos\Camisa\CamisaDeGala.class
